@@ -55,14 +55,10 @@ int /*w*/main( /*int count_argument, wchar_t* vector_argument[]*/ )
 }
 
 /*//	main.cpp
-////	Random G7TID Calculator
+////	RCG7TID (Random G7TID Calculator)
 ////
-////	Karl V. P. B. `kvpb` AKA Karl Thomas George West `ktgw`
-////	+1 (DDD) DDD-DDDD
-////	+33 A BB BB BB BB
+////	Karl V. P. B. `kvpb`	AKA Karl Thomas George West `ktgw`
+////	+33 A BB BB BB BB		+1 (DDD) DDD-DDDD
 ////	local-part@domain
-////	local-part@domain
-////	https://www.linkedin.com/in//
 ////	https://twitter.com/ktgwkvpb
-////	https://github.com/kvpb
-*///	https://vm.tiktok.com/ZSwAmcFh/
+*///	https://github.com/kvpb
